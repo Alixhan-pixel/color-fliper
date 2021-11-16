@@ -1,0 +1,20 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}   
+
+.click-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20%;
+    padding: 15%;
+}
+.btn-hero{
+    padding: 15px 35px 15px 35px !important;
+}
+.btn-hero:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
